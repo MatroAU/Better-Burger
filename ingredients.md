@@ -1,19 +1,10 @@
 top bun
-<<<<<<< Updated upstream
-
-
-
-
-
-
-
-=======
+lettuce
+onion
+tomato
+bacon
+cheese
+patty
 pickles
 sauce
-cheese
-bacon
-onion
-patty
-lettuce
->>>>>>> Stashed changes
 bottom bun

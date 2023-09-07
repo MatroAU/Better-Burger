@@ -1,4 +1,5 @@
 top bun
+<<<<<<< Updated upstream
 
 
 
@@ -6,4 +7,13 @@ top bun
 
 
 
+=======
+pickles
+sauce
+cheese
+bacon
+onion
+patty
+lettuce
+>>>>>>> Stashed changes
 bottom bun

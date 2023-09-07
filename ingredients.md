@@ -1,9 +1,10 @@
 top bun
 lettuce
-patty
-cheese
-bacon
 onion
-sauce
+tomato
+bacon
+cheese
+patty
 pickles
+sauce
 bottom bun
